@@ -3,8 +3,8 @@
 
 ## 事前準備
 
-- base的部分後面要加上 '/vision/v2.0'
-  [base_notice](https://github.com/ryanou97/License_Plate_Recognition/blob/main/picture/base_notice.png)
+- base的部分後面要加上 '/vision/v2.0'  
+[base_notice](./images/base_notice.png)
   
 
 
