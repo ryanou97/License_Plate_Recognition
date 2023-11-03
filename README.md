@@ -4,7 +4,8 @@
 ## 事前準備
 
 - base的部分後面要加上 '/vision/v2.0'
-  [base_notice](./images/base_notice.png)
+  
+  ![image](./images/base_notice.png)
   
 
 
