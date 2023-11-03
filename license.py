@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+@author: ryanou97
+"""
+
 import cv2
 import module as m     # 匯入自訂模組
 
